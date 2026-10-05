@@ -48050,7 +48050,7 @@
         "sort_order": 978,
         "added_in": "18.0",
         "has_img_apple": false,
-        "has_img_google": false,
+        "has_img_google": true,
         "has_img_twitter": false,
         "has_img_facebook": false
     },
@@ -66997,7 +66997,7 @@
         "sort_order": 1078,
         "added_in": "18.0",
         "has_img_apple": false,
-        "has_img_google": false,
+        "has_img_google": true,
         "has_img_twitter": false,
         "has_img_facebook": false
     },
@@ -67023,7 +67023,7 @@
         "sort_order": 1329,
         "added_in": "18.0",
         "has_img_apple": false,
-        "has_img_google": false,
+        "has_img_google": true,
         "has_img_twitter": false,
         "has_img_facebook": false
     },
@@ -67049,7 +67049,7 @@
         "sort_order": 1359,
         "added_in": "18.0",
         "has_img_apple": false,
-        "has_img_google": false,
+        "has_img_google": true,
         "has_img_twitter": false,
         "has_img_facebook": false
     },
@@ -68769,7 +68769,7 @@
         "sort_order": 685,
         "added_in": "18.0",
         "has_img_apple": false,
-        "has_img_google": false,
+        "has_img_google": true,
         "has_img_twitter": false,
         "has_img_facebook": false
     },
@@ -69211,7 +69211,7 @@
         "sort_order": 757,
         "added_in": "18.0",
         "has_img_apple": false,
-        "has_img_google": false,
+        "has_img_google": true,
         "has_img_twitter": false,
         "has_img_facebook": false
     },
@@ -69549,7 +69549,7 @@
         "sort_order": 12,
         "added_in": "18.0",
         "has_img_apple": false,
-        "has_img_google": false,
+        "has_img_google": true,
         "has_img_twitter": false,
         "has_img_facebook": false
     },
@@ -70393,7 +70393,7 @@
         "sort_order": 202,
         "added_in": "18.0",
         "has_img_apple": false,
-        "has_img_google": false,
+        "has_img_google": true,
         "has_img_twitter": false,
         "has_img_facebook": false,
         "skin_variations": {
@@ -70405,7 +70405,7 @@
                 "sheet_y": 27,
                 "added_in": "18.0",
                 "has_img_apple": false,
-                "has_img_google": false,
+                "has_img_google": true,
                 "has_img_twitter": false,
                 "has_img_facebook": false
             },
@@ -70417,7 +70417,7 @@
                 "sheet_y": 28,
                 "added_in": "18.0",
                 "has_img_apple": false,
-                "has_img_google": false,
+                "has_img_google": true,
                 "has_img_twitter": false,
                 "has_img_facebook": false
             },
@@ -70429,7 +70429,7 @@
                 "sheet_y": 29,
                 "added_in": "18.0",
                 "has_img_apple": false,
-                "has_img_google": false,
+                "has_img_google": true,
                 "has_img_twitter": false,
                 "has_img_facebook": false
             },
@@ -70441,7 +70441,7 @@
                 "sheet_y": 30,
                 "added_in": "18.0",
                 "has_img_apple": false,
-                "has_img_google": false,
+                "has_img_google": true,
                 "has_img_twitter": false,
                 "has_img_facebook": false
             },
@@ -70453,7 +70453,7 @@
                 "sheet_y": 31,
                 "added_in": "18.0",
                 "has_img_apple": false,
-                "has_img_google": false,
+                "has_img_google": true,
                 "has_img_twitter": false,
                 "has_img_facebook": false
             }
@@ -70481,7 +70481,7 @@
         "sort_order": 203,
         "added_in": "18.0",
         "has_img_apple": false,
-        "has_img_google": false,
+        "has_img_google": true,
         "has_img_twitter": false,
         "has_img_facebook": false,
         "skin_variations": {
@@ -70493,7 +70493,7 @@
                 "sheet_y": 33,
                 "added_in": "18.0",
                 "has_img_apple": false,
-                "has_img_google": false,
+                "has_img_google": true,
                 "has_img_twitter": false,
                 "has_img_facebook": false
             },
@@ -70505,7 +70505,7 @@
                 "sheet_y": 34,
                 "added_in": "18.0",
                 "has_img_apple": false,
-                "has_img_google": false,
+                "has_img_google": true,
                 "has_img_twitter": false,
                 "has_img_facebook": false
             },
@@ -70517,7 +70517,7 @@
                 "sheet_y": 35,
                 "added_in": "18.0",
                 "has_img_apple": false,
-                "has_img_google": false,
+                "has_img_google": true,
                 "has_img_twitter": false,
                 "has_img_facebook": false
             },
@@ -70529,7 +70529,7 @@
                 "sheet_y": 36,
                 "added_in": "18.0",
                 "has_img_apple": false,
-                "has_img_google": false,
+                "has_img_google": true,
                 "has_img_twitter": false,
                 "has_img_facebook": false
             },
@@ -70541,7 +70541,7 @@
                 "sheet_y": 37,
                 "added_in": "18.0",
                 "has_img_apple": false,
-                "has_img_google": false,
+                "has_img_google": true,
                 "has_img_twitter": false,
                 "has_img_facebook": false
             }

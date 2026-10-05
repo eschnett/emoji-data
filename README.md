@@ -151,7 +151,7 @@ available versions. If you're looking for older versions of Apple or Android ima
 | Image Set | Source Version                                                  | Supported Emoji | Missing Images |
 | --------- | --------------------------------------------------------------- | --------------- | -------------- |
 | Apple     | macOS 26.4 beta 4                                               | Emoji 17.0      | 22             |
-| Google    | [Noto Emoji](https://github.com/googlefonts/noto-emoji), v2.051 | Emoji 17.0      | 19             |
+| Google    | [Noto Emoji](https://github.com/googlefonts/noto-emoji), v2.057 | Emoji 18.0      | 0              |
 | Twitter   | [Twemoji (fork)](https://github.com/jdecked/twemoji), v17.0.1   | Emoji 17.0      | 19             |
 | Facebook  | v9, fetched 2024-02-05                                          | Emoji 15.0      | 323            |
 
